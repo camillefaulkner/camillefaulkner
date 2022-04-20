@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Camille Faulkner (she/her)
+## Welcome!
+
+## Interests
+1. Music
+1. Coding
+1. Cats
+
+## I'm currently:
+* Finishing up my UI/UX Capstone
+* Mastering Event Listeners in JS
+
+## Technologies
+* CSS
+* JS
+* HTML
+* Soon: React
+
+## Jobs
+|Company|Role|Years|
+|--|--|--|
+|Freelance|Musician|2015-2020|
+|SESAC|Office Gremlin|2020-2022|
+
+
