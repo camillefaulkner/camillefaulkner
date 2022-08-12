@@ -20,18 +20,17 @@ Here are some ideas to get you started:
 
 ## Interests
 1. Music
-1. Coding
-1. Cats
+1. Learning and trying new creative endeavors!
 
 ## I'm currently:
-* Finishing up my UI/UX Capstone
-* Mastering Event Listeners in JS
+* Finishing up a Full-Stack Web Development bootcamp at NSS!
 
 ## Technologies
+* Django/Python
+* SQL/ORM
+* React/JS
 * CSS
-* JS
 * HTML
-* Soon: React
 
 ## Jobs
 |Company|Role|Years|
