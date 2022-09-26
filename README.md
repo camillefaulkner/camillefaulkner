@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 # Camille Faulkner (she/her)
-## Welcome!
+## Hello!
 
 ## Interests
-1. Music
-1. Learning and trying new creative endeavors!
+1. Hiking
+1. Learning and trying new creative endeavors
 
 ## I'm currently:
-* Finishing up a Full-Stack Web Development bootcamp at NSS!
+* Recent Full-Stack Web Development grad of Nashville Software School!
 
 ## Technologies
 * Django/Python
-* SQL/ORM
+* SQL
 * React/JS
 * CSS
 * HTML
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 |Company|Role|Years|
 |--|--|--|
 |Freelance|Musician|2015-2020|
-|SESAC|Office Gremlin|2020-2022|
+|SESAC|Licensing Coordinator|2020-2022|
 
 
