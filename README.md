@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 ## Hello!
 
 ## Interests
-1. Hiking
 1. Learning and trying new creative endeavors
 
 ## I'm currently:
-* Recent Full-Stack Web Development grad of Nashville Software School!
+* Full-Stack Developer @ Main Street Health
 
 ## Technologies
+* Ecto/Elixir
 * Django/Python
-* SQL
+* SQL/Postgres
 * React/JS
 * CSS
 * HTML
@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 |--|--|--|
 |Freelance|Musician|2015-2020|
 |SESAC|Licensing Coordinator|2020-2022|
+|Main Street Health|Software Developer|2022-Current|
 
 
