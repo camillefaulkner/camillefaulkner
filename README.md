@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hello!
 
 ## Interests
-1. Learning and trying new creative endeavors
+* Learning and trying new creative endeavors
 
 ## I'm currently:
 * Full-Stack Developer @ Main Street Health
